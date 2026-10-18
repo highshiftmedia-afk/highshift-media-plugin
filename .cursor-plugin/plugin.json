@@ -1,0 +1,23 @@
+{
+  "name": "highshift-media",
+  "version": "1.0.0",
+  "description": "Connect your Highshift Media (HSM) account to your AI agent: manage CRM contacts and conversations, read connected email inboxes, check services and billing, and publish Facebook Reels. Secure per-user OAuth sign-in.",
+  "author": {
+    "name": "Highshift Media",
+    "email": "info@highshiftmedia.com"
+  },
+  "homepage": "https://highshiftmedia.com",
+  "repository": "https://github.com/highshiftmedia-afk/highshift-media-plugin",
+  "license": "MIT",
+  "keywords": [
+    "crm",
+    "email",
+    "social-media",
+    "facebook",
+    "reels",
+    "local-business",
+    "ai-automation",
+    "highshift"
+  ],
+  "logo": "assets/logo.png"
+}
